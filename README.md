@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Instagram : https://www.instagram.com/_prem_pk7_
-
+Instagram : https://www.instagram.com/_prem_pk7_/
 Mail id : pk07prem@gmail.com
 Interested in "_Ethical Hacking_" Do Check_out "Hackers Compendium" at Amazon
 link https://amzn.to/3E5uk4z
