@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prem Kumar <h3 align="center">N16H7H4WK</h3></h1>
+<h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"></a>, I'm Prem Kumar  </h1>
+<h3 align="center">N16H7H4WK</h3>
 <h1 align="center">Simplicity is the soul of Efficiency</h1>
 
 
