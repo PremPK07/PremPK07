@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/prempk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prempk7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/PremPK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prempk7" height="30" width="40" /></a>
-<a href="https://instagram.com/_prem_pk7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prem_pk7_" height="30" width="40" /></a>
+<a href="https://instagram.com/_prem_pk7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prem._.izax_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
